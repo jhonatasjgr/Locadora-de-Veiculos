@@ -1,5 +1,5 @@
 # Locadora de Veículos
-## O sistema é basico feito para projeto final da disciplina de programação
+## O sistema é basico feito para projeto final da disciplina de Algoritmos e programação
 ## Menus do sistema
 ### Menu Principal (inicial)
 1-CLIENTE<br>2-VEICULO<br>3-LOCAÇÃO<br>4-DEVOLUÇÃO<br>5-SAIR<br>OPÇÃO:
